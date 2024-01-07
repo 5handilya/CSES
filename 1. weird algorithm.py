@@ -13,7 +13,6 @@ def check(m):
     else:
         m = m*3 + 1
         check(m)
-    
 check(n)
 ops = ""
 for i in printarray:
