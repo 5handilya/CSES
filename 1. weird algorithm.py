@@ -1,8 +1,6 @@
 n = int(input())
 printarray=[]
 
-##even div by 2 odd times 3 plus 1
-
 def check(m):
     printarray.append(m)
     if (m==1):
