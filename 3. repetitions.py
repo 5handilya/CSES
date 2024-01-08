@@ -5,7 +5,7 @@ loccount = 1
 while i < len(seq) - 1:
     if seq[i] == seq[i+1]:
         loccount += 1
-    else:
+    else: #new substr
         loccount = 1
     if loccount > maxcount:
         maxcount = loccount
