@@ -1,4 +1,4 @@
-from math import perm,comb
+from math import comb
 k = int(input())
 for i in range(1, k+1):
     if(i == 1):
