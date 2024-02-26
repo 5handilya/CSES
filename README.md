@@ -1,2 +1,2 @@
 # Solving the CSES problemset
-Last solved: 11. Coin Piles
+Last solved: 12. palindrom reorder
