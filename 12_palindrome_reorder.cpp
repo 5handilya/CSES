@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+//INCOMPLETE, SOLVED IN PYTHON
 using namespace std;
 template<class C, typename T>
 bool contains(C&& c, T e) { return find(begin(c), end(c), e) != end(c); };
