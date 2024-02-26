@@ -1,2 +1,2 @@
 # Solving the CSES problemset
-Last solved: 10. trailing zeroes
+Last solved: 11. Coin Piles
