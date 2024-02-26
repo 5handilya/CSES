@@ -1,9 +1,8 @@
-import math
-n = int(input())
-n5factors = 0
-while (n >= 5):
-    n5factors += (n//5)
-    n//=5    
-print(n5factors)
-
-
+t = int(input())
+while t > 0:
+    {
+        #read numbers
+        #if a = b, yes if a and b div by 3
+        #otherwise what? to solve
+    }
+    t -= 1
